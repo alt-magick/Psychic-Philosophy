@@ -983,7 +983,7 @@ The world is full of signals, but their significance is not always obvious. Unde
 
 The carrier wave, ultimately, is a way of thinking about how the world speaks through patterns and how we participate in their interpretation. Nature supplies the materials, life develops systems of response, human beings create symbols, and technology extends their reach. What passes between them is not necessarily a single consciousness, but an expanding network of information and influence through which reality becomes known, interpreted, and transformed.
 
-# The Mathematical Universe: The Letter-Number Experiment and the Multiple Values of Numbers
+# The Mathematical Universe
 
 ## 1. The Letter-Number Experiment
 
