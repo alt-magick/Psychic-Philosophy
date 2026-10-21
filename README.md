@@ -1081,7 +1081,7 @@ T + E + N = 10 - 2 + 2 = 10
 
 ***Ten^Three***
 
-(T + E + N)^(10 - 7 + 4 - 2 - 2) = 300
+(T + E + N)^(T + H + R + E + E) = (10 - 2 + 2)^(10 - 7 + 4 - 2 - 2) = 300
 
 In each of these examples, the letter-value sum matches the number the word conventionally represents. ZERO produces zero, ONE produces one, and the other words produce their corresponding values.
 
