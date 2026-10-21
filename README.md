@@ -1440,50 +1440,6 @@ No institution should be preserved merely because it has existed for generations
 
 A society committed to freedom must apply its principles to the justice system itself.
 
-## Measuring Justice by Its Consequences
-
-Imagine a legal system that records every conviction, calculates every sentence, and documents every completed penalty. Its statistics are precise. It can report how many people have been imprisoned, how long they have remained there, and how many cases have been closed.
-
-Yet it does not ask whether victims have received the help they need, whether the damage has been repaired, whether wrongful convictions have been corrected, or whether the measures imposed have reduced future harm.
-
-The system can demonstrate that it has followed its procedures without demonstrating that it has achieved justice.
-
-A more meaningful evaluation would ask different questions.
-
-Are people protected from further harm? Are victims receiving practical and emotional support? Are decisions based on reliable evidence and fair procedures? Are people held accountable in ways that address their actions and consequences? Are restrictions on freedom necessary and proportionate? Are institutions correcting their mistakes? Are interventions reducing the likelihood of repeated offenses?
-
-These questions require more than a single numerical measure. Justice involves competing interests, uncertain outcomes, and losses that cannot always be repaired. A system must be judged through careful evaluation rather than by assuming that one policy or procedure will succeed in every case.
-
-It must also remain willing to change. If a program fails to improve safety, it should be reconsidered. If a restriction is no longer necessary, it should not continue automatically. If evidence reveals that a policy is producing unjust outcomes, the policy should be corrected.
-
-The legal system should not measure its success by the amount of punishment it delivers, but by the quality of the protection, accountability, fairness, and repair it provides.
-
-This approach does not guarantee that every decision will be correct. It establishes a standard by which errors can be recognized and improvements pursued.
-
-## Conclusion: From Punishment to Protection
-
-The purpose of justice is not to reproduce suffering in the name of answering it. It is to protect people, acknowledge wrongdoing, establish responsibility, repair what can be repaired, and reduce the likelihood of future harm.
-
-A society can take crime seriously without assuming that every offense requires imprisonment. It can hold people accountable without treating revenge as a moral obligation. It can protect victims without demanding that they forgive. It can recognize the possibility of rehabilitation without ignoring continuing danger. And it can maintain legal institutions without granting those institutions unlimited authority over the people they serve.
-
-These principles do not remove the difficult questions. Some harms cannot be undone. Some people remain dangerous despite intervention. Some cases involve conflicting rights and uncertain evidence. Decisions about freedom and public safety will continue to require careful judgment.
-
-A humane justice system does not pretend these difficulties disappear. It responds to them without abandoning the principles it claims to defend.
-
-When confinement is necessary, it should protect people rather than deliberately inflict suffering. When restitution is possible, it should be pursued without imposing impossible obligations. When treatment can reduce risk, it should be available. When someone has been harmed, their needs must remain central. When authority is exercised, it must be accountable. And when the system makes a mistake, it must have the means to recognize and correct it.
-
-The legal system must also remain open to the possibility that its own practices cause harm. Laws can be unjust, enforcement can be unequal, and institutions can preserve their own power at the expense of the people they were created to serve. Justice therefore requires the continuing examination of both individual conduct and the social structures through which responsibility is determined.
-
-The fundamental change is a change in purpose. Instead of asking how much suffering an offender deserves, society should ask what is necessary to protect people and address the consequences of the offense. Instead of treating a completed sentence as proof that justice has been done, it should examine whether the relevant needs have been met and what risks remain. Instead of assuming that established institutions are indispensable, it should evaluate whether they actually fulfill their responsibilities.
-
-A legal system is a human creation. It can be questioned, revised, and improved. Its traditions do not place it beyond criticism, and its authority does not make every decision just.
-
-The reality we inherit does not have to determine the reality we create. We can preserve the legitimate functions of law while reconsidering the methods through which those functions are carried out. We can build institutions that protect without dominating, hold people accountable without pursuing revenge, and treat the prevention of suffering as a responsibility rather than an afterthought.
-
-Justice should not be measured by how effectively society can make people suffer for what they have done. It should be measured by how responsibly society responds to what has happened and how effectively it protects the possibility of a safer future.
-
-**The purpose of justice is not to make suffering inevitable. It is to prevent harm wherever possible, respond to wrongdoing with accountability, and protect the dignity and freedom of every person subject to its power.**
-
 ## Conclusion: Changing the World We Have Created
 
 The purpose of philosophy is not to provide an elegant explanation for a world whose suffering we have decided to accept. It is to help us understand the world well enough to recognize what can be changed, what must be protected, and what we have mistaken for an unavoidable feature of existence.
