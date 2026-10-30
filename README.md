@@ -6,8 +6,7 @@ https://www.amazon.com/dp/B0HNS457D5
 
 My Reality
 
-By 
-Corey White
+By Corey White
 
 Perceiver, Perspective, and Perception
 
@@ -184,15 +183,10 @@ This is one way in which awareness can become a form of healing. We begin to see
 Meditation in nature therefore returns us to the central question of this philosophy: how do the perceiver, perspective, and perception work together to create the reality we experience? By changing the conditions under which we pay attention, we can begin to understand that relationship more clearly. And through that understanding, we may discover a more balanced way of living within ourselves and within the world we share.
 
 Labeling
-
 Meditation does not always require sitting in silence, closing the eyes, or attempting to empty the mind. It can begin with something much simpler: noticing what is present and giving it a name. This practice, which I call labeling, is a way of directing attention toward the world, observing the contents of experience, and bringing awareness to things that might otherwise pass unnoticed.
-
 The principle is straightforward. Whatever enters your awareness can become the subject of attention. You can notice an object and name it, observe a sensation and describe it, recognize a thought and identify it, or anticipate an action and label it before it occurs. Each label gives attention a temporary point of focus, allowing the mind to engage with experience deliberately rather than drifting unconsciously from one preoccupation to another.
-
 Labeling creates a relationship between the perceiver, perspective, and perception. The perceiver is the one who experiences; perspective influences how the experience is approached; and perception is the experience as it becomes recognizable and meaningful. By choosing how to label what you encounter, you exercise some influence over where your attention goes and how you organize your experience.
-
 The purpose is not to convince yourself that words determine the nature of reality. A flower remains a flower whether you name it, count it, admire it, or ignore it. The change occurs in your relationship with the flower. When you direct your attention toward it, you give it a place in your immediate experience that it might not otherwise occupy.
-
 Labeling is therefore a practical exercise in awareness. It teaches you to notice what is happening, identify what you notice, and decide what deserves your attention next.
 
 The Breath as a Starting Point
@@ -200,7 +194,6 @@ The Breath as a Starting Point
 One of the simplest ways to practice labeling is by observing the breath.
 
 Sit comfortably and allow yourself to breathe naturally. As you inhale, mentally label the experience in. As you exhale, label it out. Continue repeating these words for as long as you wish.
-
 You do not need to change your breathing or force yourself into a particular rhythm. Your task is simply to notice the movement of breathing and associate each part of the cycle with a label.
 
 In. Out. In. Out.
@@ -237,9 +230,7 @@ This illustrates an important distinction: the environment supplies the things y
 Counting as Meditation
 
 Labeling can also involve counting. Rather than naming objects individually, you can choose a category and determine how many examples of it you can find.
-
 Imagine standing in a garden. Begin counting the flowers you can see. One flower, two flowers, three flowers. Continue until you have counted all the flowers within the area you have chosen.
-
 You might then count the trees, birds, stones, or different colors of flowers. You could count the number of visible windows in a building, the number of people walking through a park, or the number of distinct sounds you hear in a minute.
 
 The exercise gives attention a specific task. Instead of attempting to observe everything simultaneously, you establish a category and search for examples that belong to it.
@@ -281,6 +272,7 @@ Labeling Thoughts and Emotions
 The practice can be directed inward toward thoughts, emotions, and mental activity.
 
 When a thought appears, you can identify it as remembering, planning, imagining, judging, comparing, or worrying. When an emotion becomes noticeable, you can label it anger, sadness, excitement, fear, or contentment.
+
 The objective is not to suppress these experiences. It is to recognize them as experiences that can be observed.
 
 For example, imagine that you remember an unpleasant conversation. Your mind begins reconstructing what was said, what you should have said in response, and what the other person might have meant. Before long, you are no longer simply remembering the conversation. You are participating in an extended chain of imagined explanations and responses.
@@ -356,6 +348,7 @@ When you notice that your attention has become absorbed by a recurring thought, 
 If you are planning a project and making progress, you may want to continue. If you are repeatedly imagining a conversation that has already ended, you may decide that the exercise has stopped serving you. If you are worrying about an uncertain event, you might identify a practical step you can take or acknowledge that the outcome remains beyond your control.
 
 The important point is that labeling makes preoccupation available for examination. Instead of being entirely absorbed in a thought, you can become aware of the process by which that thought occupies your attention.
+
 You can also redirect attention toward a chosen subject. Return to your breath, count the objects around you, listen to the sounds in the environment, or identify the next useful action you can take.
 
 This does not mean every unwanted thought must be interrupted. Some concerns deserve careful attention, and difficult emotions may require time, reflection, or support. Labeling is not a command to ignore discomfort. It is a means of recognizing what is happening so that you can decide how to respond.
@@ -388,7 +381,9 @@ Consider the difference between the labels rain and bad weather. The first ident
 
 The event itself does not determine a single universal evaluation. The label bad weather introduces a judgment that depends on circumstances, priorities, and perspective.
 
-The same distinction appears in our descriptions of ourselves and others. Labels such as lazy, intelligent, difficult, or successful can compress complicated experiences into a single judgment. Sometimes a label may identify a useful pattern, but it can also conceal important distinctions or turn a temporary behavior into an assumed permanent characteristic.
+The same distinction appears in our descriptions of ourselves and others. Labels such as lazy, intelligent, difficult, or successful can compress complicated experiences into a single judgment. Sometimes a label may 
+
+identify a useful pattern, but it can also conceal important distinctions or turn a temporary behavior into an assumed permanent characteristic.
 
 A person who postpones one task is not necessarily a lazy person. Someone who makes a mistake is not necessarily incompetent. A moment of anger does not define an entire personality.
 
@@ -425,6 +420,7 @@ Ultimately, labeling is a meditation of recognition. It begins with the question
 The answers will change with your circumstances. Some moments call for observation, others for reflection, and others for decisive action. Labeling does not determine which response is always correct. It helps you recognize the situation more clearly so that you can choose your response with greater awareness.
 
 Reality does not need to be reinvented each time you look at it. What can change is the care with which you observe it, the accuracy with which you describe it, and the freedom with which you direct your attention.
+
 The practice begins with a word, but its purpose extends beyond words: to become more aware of what you experience, more discerning about the meanings you assign, and more deliberate about what you do next.
 
 The Three States of Consciousness: Desire, Distress, and Detachment
@@ -768,11 +764,9 @@ Belief becomes a tool when it can be examined and deliberately applied. It becom
 
 The Twelve Spheres
 
-The idea of magical Spheres offers a way to classify different kinds of interaction with reality. The twelve-Sphere framework developed here is a distinct adaptation rather than a reproduction of that game's official Sphere system. It combines magical powers, philosophical principles, astrological associations, and Tarot imagery into a symbolic architecture for examining how a practitioner might attempt to perceive and reshape the world.
+The idea of magical Spheres offers a way to classify different kinds of interaction with reality. It combines magical powers, philosophical principles, astrological associations, and Tarot imagery into a symbolic architecture for examining how a practitioner might attempt to perceive and reshape the world.
 
 Each Sphere has four components: a Power, which describes the domain of ability; a Knowledge, which expresses the underlying principle; a Description, which explains the Sphere's meaning within the magical framework; and five levels, which show a progression from basic perception or preparation toward more extreme expressions of the power.
-
-The levels below describe the internal logic and imaginative scope of this magical system. They are not a claim that these abilities have been demonstrated in the real world. Some can be interpreted through ordinary skills, psychology, or physical techniques; others belong to fantasy, occult belief, or speculative metaphysics.
 
 Astrology and Tarot provide two complementary symbolic languages for these Spheres. Zodiac signs and planetary associations suggest qualities, tensions, and recurring themes. The Major Arcana provide images of action, change, knowledge, limitation, and transformation. These correspondences are interpretive: occult traditions differ in their assignments, and the pairings below belong to this particular framework.
 
@@ -800,7 +794,6 @@ Five levels of Control
 The progression moves from controlling one's response to imagining control over the physical environment itself. The greater the proposed power, the more important it becomes to distinguish symbolic intention from what can actually be accomplished.
 
 2. Transformation
-
 Power: Developing / Shapeshifting  
 Knowledge: Personification — authoring one's own identity.  
 Astrological correspondences: Taurus and Venus.  
@@ -1143,12 +1136,6 @@ Yet the new form can change the writer's experience of the message. Familiar wor
 
 For a chaos magician, this transformation can become part of a sigilization practice. The cipher offers a repeatable method of encoding an intention into a visual form that can be contemplated or incorporated into a ritual. For a programmer, it is a substitution cipher. For a philosopher, it is an example of how the representation of information can influence the experience of interpreting it.
 
-These descriptions are not mutually exclusive, but they refer to different aspects of the same activity.
-
-The digital tool does not automatically make the message more powerful, nor does its use of astrological symbols demonstrate that planetary forces have been activated. Its value depends on the purpose for which it is used and the meaning it acquires within the practitioner's framework.
-
-The act of typing becomes significant because the person performing it gives the activity a particular intention. The software supplies a structured method through which that intention can be expressed. The computer executes the transformation, and the resulting symbols provide a new object for attention and interpretation.
-
 This is the carrier-wave principle in a concrete form: a message is expressed through a physical and symbolic structure, transmitted or displayed, and encountered by a receiver capable of interpreting it.
 
 The Mirror of the Wire
@@ -1333,7 +1320,7 @@ These results establish the relationship we would ordinarily expect: the name of
 
 But one word produces a particularly interesting result.
 
-## 5. The Word TWO and Its Second Numerical Interpretation
+5. The Word TWO and Its Second Numerical Interpretation
 
 Consider the word TWO.
 
@@ -1396,7 +1383,7 @@ For ONE, the conventional meaning and calculated letter value are both 1. For TW
 
 The same written word can therefore participate in different numerical relationships without its conventional meaning being replaced.
 
-## 7. Can a Number Have More Than One Value?
+7. Can a Number Have More Than One Value?
 
 The phrase multiple values requires a careful distinction.
 
@@ -1480,7 +1467,7 @@ Ultimately, the experiment invites us to reconsider how we understand symbols an
 
 Different expressions can share the same numerical result, and the same written form can carry different numerical interpretations under different systems. Recognizing that distinction allows us to explore relationships beyond the meanings we ordinarily take for granted—and to approach the familiar world with a broader understanding of how representation shapes what we discover.
 
-Anarchy Without Domination: Philosophy as a Means of Changing the World
+Anarchy and Philosophy: A Means of Changing the World
 
 The purpose of philosophy is not merely to understand the world, but to change it. Understanding reality has little practical value if that understanding never influences how we live, how we treat one another, or how we organize the societies in which we exist. We can examine perception, consciousness, desire, suffering, freedom, and the nature of existence indefinitely, but the significance of that examination ultimately depends on what we do with what we learn. Philosophy becomes a living force when it moves beyond thought and begins to transform the conditions of human life.
 
@@ -1498,7 +1485,7 @@ Anarchy offers one way to investigate these questions. Properly understood, it n
 
 From this perspective, the purpose of changing society is not to replace one group of rulers with another. It is to reconsider why permanent rulers should be necessary at all.
 
-Justice Without Domination: Rethinking the Legal System
+Justice: Rethinking the Legal System
 
 A society reveals its values through the way it responds when people harm one another. Its laws determine what behavior is permitted, its courts determine how responsibility is established, and its institutions determine what happens to those found responsible. These systems are not merely administrative arrangements. They express beliefs about human nature, morality, authority, and what justice is supposed to accomplish.
 
