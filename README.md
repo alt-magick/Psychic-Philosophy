@@ -183,10 +183,15 @@ This is one way in which awareness can become a form of healing. We begin to see
 Meditation in nature therefore returns us to the central question of this philosophy: how do the perceiver, perspective, and perception work together to create the reality we experience? By changing the conditions under which we pay attention, we can begin to understand that relationship more clearly. And through that understanding, we may discover a more balanced way of living within ourselves and within the world we share.
 
 Labeling
+
 Meditation does not always require sitting in silence, closing the eyes, or attempting to empty the mind. It can begin with something much simpler: noticing what is present and giving it a name. This practice, which I call labeling, is a way of directing attention toward the world, observing the contents of experience, and bringing awareness to things that might otherwise pass unnoticed.
+
 The principle is straightforward. Whatever enters your awareness can become the subject of attention. You can notice an object and name it, observe a sensation and describe it, recognize a thought and identify it, or anticipate an action and label it before it occurs. Each label gives attention a temporary point of focus, allowing the mind to engage with experience deliberately rather than drifting unconsciously from one preoccupation to another.
+
 Labeling creates a relationship between the perceiver, perspective, and perception. The perceiver is the one who experiences; perspective influences how the experience is approached; and perception is the experience as it becomes recognizable and meaningful. By choosing how to label what you encounter, you exercise some influence over where your attention goes and how you organize your experience.
+
 The purpose is not to convince yourself that words determine the nature of reality. A flower remains a flower whether you name it, count it, admire it, or ignore it. The change occurs in your relationship with the flower. When you direct your attention toward it, you give it a place in your immediate experience that it might not otherwise occupy.
+
 Labeling is therefore a practical exercise in awareness. It teaches you to notice what is happening, identify what you notice, and decide what deserves your attention next.
 
 The Breath as a Starting Point
@@ -213,6 +218,7 @@ Labeling the World Around You
 The same principle can be extended beyond the body to the surrounding environment.
 
 Look around the room in which you are sitting. Begin identifying the things you notice: table, chair, window, door, light, shadow. Continue through the environment, naming objects as your attention encounters them.
+
 You might focus on colors instead: blue, green, white, black. Or you might identify shapes, textures, sounds, movements, and distances. A passing vehicle becomes movement. A distant voice becomes sound. Sunlight on the floor becomes light. A change in temperature becomes warmth or cold.
 
 The same environment can support many different labeling exercises, depending on the perspective you choose.
@@ -230,7 +236,9 @@ This illustrates an important distinction: the environment supplies the things y
 Counting as Meditation
 
 Labeling can also involve counting. Rather than naming objects individually, you can choose a category and determine how many examples of it you can find.
+
 Imagine standing in a garden. Begin counting the flowers you can see. One flower, two flowers, three flowers. Continue until you have counted all the flowers within the area you have chosen.
+
 You might then count the trees, birds, stones, or different colors of flowers. You could count the number of visible windows in a building, the number of people walking through a park, or the number of distinct sounds you hear in a minute.
 
 The exercise gives attention a specific task. Instead of attempting to observe everything simultaneously, you establish a category and search for examples that belong to it.
