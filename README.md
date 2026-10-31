@@ -1214,154 +1214,140 @@ The world is full of signals, but their significance is not always obvious. Unde
 
 The carrier wave, ultimately, is a way of thinking about how the world speaks through patterns and how we participate in their interpretation. Nature supplies the materials, life develops systems of response, human beings create symbols, and technology extends their reach. What passes between them is not necessarily a single consciousness, but an expanding network of information and influence through which reality becomes known, interpreted, and transformed.
 
-The Mathematical Universe
+ The Mathematical Universe
 
-1. The Letter-Number Experiment
+ 1. The Letter-Number Experiment
 
-Every number has a name in language. We write ZERO to name 0, ONE to name 1, TWO to name 2, and so forth. Ordinarily, we read these words according to their conventional meanings. The word TWO means two because that is how the English language identifies the number.
+Every number has a name in language. We write ZERO to represent 0, ONE to represent 1, TWO to represent 2, and so forth. These words have established meanings that we ordinarily take for granted.
 
-The letter-number experiment introduces another way to examine these words. By assigning numerical values to letters, we can add the values of the letters in a word and calculate a separate numerical result.
+But what happens when we examine the words themselves mathematically?
 
-This creates a distinction between what a word means and what its letters can produce mathematically.
+The letter-number experiment assigns numerical values to individual letters. By adding those values together, we can calculate a numerical result for any word constructed from the assigned letters.
 
-For example, the word ONE conventionally represents 1. If the assigned values of O, N, and E add up to 1, the word's conventional meaning and its calculated letter value agree.
+This creates an interesting distinction between a word's conventional meaning and the numerical value produced by its structure.
 
-But what happens if a different word also produces a sum of one?
+For example, ONE conventionally represents the number 1. If the numerical values of its letters also add up to 1, the two interpretations agree. But another word might produce the same sum despite having an entirely different meaning.
 
-The second word does not lose its ordinary meaning. Instead, it acquires a second numerical interpretation: the value represented by its conventional meaning and the value calculated from its letters.
+The experiment explores these relationships, examining how different words can produce identical numerical results without sharing the same conventional meaning.
 
-This is the central idea of the experiment. A written word can retain its established meaning while its structure produces a different numerical result. Different words can also produce the same letter-value sum, even when their conventional meanings are different.
-
-The experiment therefore invites us to look beyond the number a word names and investigate the additional numerical relationships that its written form may contain under an assigned system.
-
-2. The Letter-Value Table
+ 2. The Letter-Value Table
 
 To conduct the experiment, we assign the following numerical values to selected letters:
 
-T = 10  
-I = 7  
-V = 6  
-U = 5  
-R = 4  
-S = 3  
-N = 2  
-O = 1  
-G = 0  
-Z = -3  
-E = -2  
-X = -4  
-F = -6  
-H = -7  
-W = -10
+ T  10 
+ I  7 
+ V  6 
+ U  5 
+ R  4 
+ S  3 
+ N  2 
+ O  1 
+ G  0 
+ Z  -3 
+ E  -2 
+ X  -4 
+ F  -6 
+ H  -7 
+ W  -10 
 
-Each letter contributes its assigned value to the word in which it appears. To calculate a word's letter value, we add the values of all its letters, counting repeated letters each time they occur.
+Each letter contributes its assigned value to the word. Repeated letters are counted each time they appear.
 
-For example, the word ONE contains O, N, and E. According to the table, those letters have the values 1, 2, and -2.
+Consider ONE:
 
 O + N + E = 1 + 2 - 2 = 1
 
-The word's calculated value is one, matching its conventional meaning.
+Its calculated value matches the number it conventionally represents.
 
-The table establishes the rules of this particular experiment. The values are assigned rather than inherent properties of the letters, and the calculations follow from those assignments. Once the system is defined, we can examine its results consistently and determine which words produce their expected numbers and which produce different values.
+These assignments establish the rules of the experiment. They are not inherent properties of the letters; they are values selected for this particular mathematical system. Once established, however, they allow us to evaluate words consistently.
 
-The purpose is not to change the ordinary meaning of words. It is to investigate what becomes visible when we examine their letters through a separate mathematical framework.
-4. When the Letter Values Match the Conventional Numbers
+ 3. When Letter Values Match Conventional Numbers
 
-We can begin by calculating the values of the number words. Several produce the same results as their conventional meanings.
+We can begin by calculating the values of several number words.
 
-Zero
+ZERO
 
 Z + E + R + O = -3 - 2 + 4 + 1 = 0
 
-One
+ONE
 
 O + N + E = 1 + 2 - 2 = 1
 
-Three
+THREE
 
 T + H + R + E + E = 10 - 7 + 4 - 2 - 2 = 3
 
-Four
+FOUR
 
 F + O + U + R = -6 + 1 + 5 + 4 = 4
 
-Five
+FIVE
 
 F + I + V + E = -6 + 7 + 6 - 2 = 5
 
-Six
+SIX
 
 S + I + X = 3 + 7 - 4 = 6
 
-Seven
+SEVEN
 
 S + E + V + E + N = 3 - 2 + 6 - 2 + 2 = 7
 
-Eight
+EIGHT
 
 E + I + G + H + T = -2 + 7 + 0 - 7 + 10 = 8
 
-Nine
+NINE
 
 N + I + N + E = 2 + 7 + 2 - 2 = 9
 
-Ten
+TEN
 
 T + E + N = 10 - 2 + 2 = 10
 
-Ten^Three
+We can also extend the calculation to an exponent:
 
-(T + E + N)^(T + H + R + E + E) = 
-(10 - 2 + 2)^(10 - 7 + 4 - 2 - 2) = 300
+TEN³
 
-In each of these examples, the letter-value sum matches the number the word conventionally represents. ZERO produces zero, ONE produces one, and the other words produce their corresponding values.
+(T + H + R + E + E)^(T + E + N)
 
-These results establish the relationship we would ordinarily expect: the name of a number produces that number when its letters are evaluated under the assigned system.
+= (10 - 7 + 4 - 2 - 2)^(10 - 2 + 2)
 
-But one word produces a particularly interesting result.
+= 3^10 = 300
 
-5. The Word TWO and Its Second Numerical Interpretation
+In these examples, the calculated letter values match the conventional numerical meanings of the words.
+
+However, one word produces a particularly interesting exception.
+
+ 4. TWO and Its Second Numerical Interpretation
 
 Consider the word TWO.
 
-Its conventional meaning is the number 2. Yet, under another letter-value table, its letters produce the following result:
+Its conventional meaning is the number 2. Yet, under our letter-value system, its letters produce a different result:
 
 T + W + O = 10 - 10 + 1 = 1
 
-The calculated value is one, even though the word conventionally represents two.
+The word conventionally represents two, but its calculated letter value is one.
 
-This result does not change the meaning of TWO in the English language. When we read the word in an ordinary sentence, it still means two. But when we examine its letters under the numerical system, the result is one.
+This does not change the meaning of TWO in the English language. It simply reveals another numerical property of its written form.
 
-The word therefore has two distinct numerical interpretations:
+We can therefore distinguish two interpretations:
 
-- Its conventional numerical meaning is 2.
-- Its calculated letter value is 1.
+- Conventional meaning: 2.
+- Calculated letter value: 1.
 
-Both interpretations can coexist because they answer different questions. The first identifies the number represented by the word in ordinary language. The second calculates the sum of the numerical values assigned to its letters.
-
-This distinction becomes even more interesting when we compare TWO with ONE.
+The distinction becomes more interesting when we compare TWO with ONE:
 
 O + N + E = 1 + 2 - 2 = 1
 
 T + W + O = 10 - 10 + 1 = 1
 
-The words ONE and TWO have different conventional meanings, but their letters produce the same numerical result.
+Although the words have different meanings and entirely different letters, their calculated values are identical.
 
-One word conventionally names one; the other conventionally names two. Nevertheless, both expressions add up to one under the letter-value system.
+The experiment has revealed a numerical relationship that cannot be discovered by considering the words' conventional meanings alone.
 
-The experiment has revealed a relationship that is not apparent from the words' ordinary meanings alone.
+ 5. One Result, Different Expressions
 
-6. One Result, Different Expressions
-
-The equations demonstrate that different arrangements of letters can produce the same numerical result:
-
-O + N + E = 1
-
-T + W + O = 1
-
-The letters differ, the words differ, and their conventional meanings differ. Yet the calculated sums are equal.
-
-This resembles ordinary arithmetic, where different expressions can produce the same result:
+In ordinary mathematics, different expressions can represent the same value:
 
 1 = 2 - 1
 
@@ -1369,103 +1355,89 @@ This resembles ordinary arithmetic, where different expressions can produce the 
 
 1 = 10 - 9
 
-In ordinary arithmetic, we recognize these as different expressions of the number one. The letter-number experiment introduces a less familiar example in which words themselves can serve as numerical expressions.
+The letter-number experiment introduces a similar relationship through language. ONE and TWO become different expressions of the same calculated value.
 
-The important distinction is that the word TWO does not conventionally mean 1. Rather, its letters produce 1 when their assigned values are added together.
+This allows us to distinguish three concepts:
 
-This allows us to separate three related but distinct concepts:
+1. The number: The numerical value being considered.
+2. The conventional meaning: The number a word identifies in ordinary language.
+3. The calculated letter value: The result obtained by adding the assigned values of its letters.
 
-1. The number: the numerical value being considered.
-2. The conventional meaning: the number that a word identifies in ordinary language.
-3. The calculated letter value: the numerical result obtained by adding the values assigned to the word's letters.
+For ONE, the conventional meaning and calculated value are both 1. For TWO, the conventional meaning is 2, while the calculated value is 1.
 
-For ONE, the conventional meaning and calculated letter value are both 1. For TWO, the conventional meaning is 2, while the calculated letter value is 1.
+The words remain distinct, but their mathematical expressions converge on the same result.
 
-The same written word can therefore participate in different numerical relationships without its conventional meaning being replaced.
+ 6. Can a Number Have More Than One Value?
 
-7. Can a Number Have More Than One Value?
+The idea of multiple numerical values requires an important distinction.
 
-The phrase multiple values requires a careful distinction.
+In ordinary arithmetic, the number 1 remains 1 regardless of whether we express it as 2 - 1, 5 / 5, or another equivalent expression. Different representations do not change the underlying value.
 
-In ordinary arithmetic, the number 1 remains 1. Writing it as `2 - 1` or `5 / 5` does not change its value. What changes is the expression through which we represent it.
+The letter-number experiment introduces a different kind of relationship. A word can have an established numerical meaning while producing another value when its letters are evaluated under a separate system.
 
-The letter-number experiment introduces a related idea: a word can have a conventional numerical meaning while also producing a different numerical value under a separate system.
+TWO is the clearest example. It represents 2 in ordinary language but produces 1 when its assigned letter values are added together.
 
-The word TWO is the clearest example. In ordinary language, it represents 2. Under the letter-value table, its letters add up to 1. The written word has not changed, but the system used to interpret it has.
+This does not mean that two equals one. It means that the written name for two can participate in another mathematical relationship that produces one.
 
-This is not a claim that the number 2 equals 1 in ordinary arithmetic. It is a demonstration that the word used to represent two can also produce one as a calculated letter value.
+The distinction is between the value being represented and the properties of the representation itself.
 
-That distinction is essential. The experiment does not erase the difference between one and two. Instead, it shows how a single written form can be associated with two different numerical results because it is being examined according to two different sets of rules.
+ 7. What the Experiment Reveals About Representation
 
-The same principle appears in many forms of representation. A symbol can have a conventional meaning while also participating in a mathematical system. A word can communicate one thing linguistically and produce another result when its structure is analyzed numerically.
+We often associate something so closely with its familiar representation that we overlook the difference between the two.
 
-The important discovery is not that numbers arbitrarily change their values. It is that the relationship between a symbol and a number can be more complicated than the symbol's conventional meaning alone suggests.
+The numeral 1, the word ONE, and the expression 2 - 1 all communicate the same numerical value. Yet they are different representations, each with its own structure.
 
-8. What the Experiment Reveals About Representation
+The letter-number experiment extends this observation by showing that a representation can have properties beyond its conventional meaning.
 
-We often associate a thing so closely with the form in which we encounter it that we overlook the distinction between them.
+ONE and TWO retain their established linguistic meanings, but both produce the numerical result 1 under the assigned system. Their relationship becomes visible only when we examine their internal structures rather than simply reading them as words.
 
-We see the numeral `1` and think of one. We read the word ONE and think of the same number. Because these representations are so familiar, it is easy to treat the symbol and the value as though they were inseparable.
+The linguistic system tells us what a word means. The mathematical system tells us what its letters produce.
 
-But a number can be represented in many ways. The numeral, the written word, and an arithmetic expression are different forms through which the same numerical value can be communicated.
+Both interpretations can coexist without contradicting each other.
 
-The letter-number experiment adds another layer to this idea. A word can retain its ordinary meaning while its letters participate in a different mathematical relationship.
+This distinction between a thing and its representation provides a useful starting point for examining how we understand the world around us.
 
-TWO continues to mean two in language, but its letters sum to one under the assigned system. ONE means one, and its letters also sum to one. The two words converge on the same calculated result without becoming synonymous.
+ 8. From Symbolic Systems to Reality
 
-The result demonstrates that different systems can reveal different properties of the same symbol. The linguistic system tells us what a word means. The letter-value system tells us what its assigned values add up to.
+The relationship between an object and its representation extends far beyond language.
 
-Neither interpretation needs to erase the other.
+Physical distance can be expressed in different units. Mathematical relationships can be written in different forms. Physical processes can be described through words, diagrams, or equations.
 
-This is why the experiment is more than a simple exercise in assigning numbers to letters. It encourages us to examine the difference between a symbol's familiar meaning and the additional relationships that can emerge when we analyze it from another perspective.
+These representations may look entirely different while describing the same underlying quantity or process.
 
-9. From Symbolic Systems to Reality
+Mathematics allows us to recognize relationships across these different forms. Changing the notation does not necessarily change what is being described.
 
-The relationship between an object and its representation extends beyond language and mathematics.
+The letter-number experiment offers a simple illustration of this principle. A familiar word can be examined through multiple systems, each revealing a different property of the same written form.
 
-A physical distance can be expressed in different units. A mathematical relationship can be written in different forms. A process can be described in words, represented in a diagram, or modeled through equations.
+This does not establish that the universe is encoded in words or that numerical coincidences reveal hidden universal laws. Rather, it demonstrates how changing the framework through which we examine something can expose relationships that would otherwise remain unnoticed.
 
-These representations may differ in appearance and structure while referring to the same underlying quantity or process.
+The representation is not necessarily limited to the meaning we initially assign to it.
 
-Mathematics is powerful partly because it allows us to recognize relationships across different expressions. We can change notation or use another method of calculation without necessarily changing what we are describing.
+ 9. The Significance of Multiple Numerical Interpretations
 
-The letter-number experiment offers a way to reflect on this broader principle. It shows how a familiar word can be examined through more than one system and how the results can reveal relationships that are not obvious from its conventional meaning.
+The experiment begins with the familiar certainty of arithmetic: zero is zero, one is one, and two is two.
 
-The experiment does not establish that the universe is encoded in words or that every numerical coincidence reveals a hidden universal law. Its significance is more focused: it illustrates how our understanding can expand when we distinguish the thing being represented from the different systems through which it is interpreted.
+We then introduce a system that allows the written names of numbers to be evaluated mathematically. In many cases, the results match their conventional meanings.
 
-A symbol's conventional meaning is one aspect of its use. Its structure, its assigned values, and its relationships with other symbols may provide additional ways to examine it.
-
-By changing our perspective, we can discover properties that were previously overlooked, provided we remain consistent about the rules we apply and careful about the conclusions we draw.
-
-10. The Significance of Multiple Numerical Interpretations
-
-The experiment begins with the familiar certainty of ordinary arithmetic. Zero equals zero, one equals one, and two equals two. Numbers have their established values, and mathematical expressions can represent those values in different ways.
-
-We then introduce a letter-value system that allows the written names of numbers to be examined mathematically. In many examples, the letters add up to the number their word conventionally represents. ZERO produces zero, ONE produces one, and the other listed words produce their expected values.
-
-But TWO introduces a different possibility.
+TWO, however, produces a different result:
 
 T + W + O = 10 - 10 + 1 = 1
 
-The word TWO conventionally represents two, yet its letters produce one. Meanwhile, ONE produces one through its own letter values:
+Meanwhile:
 
 O + N + E = 1 + 2 - 2 = 1
 
-Two different words, with different conventional meanings, therefore produce the same numerical result under the system.
+Two words with different conventional meanings produce the same numerical result.
 
-This is the central insight of the letter-number experiment. The word's conventional meaning and the value calculated from its letters are distinct properties. The same written form can be interpreted through different systems, and different expressions can lead to the same result.
+This is the central insight of the experiment: a symbol's conventional meaning and the mathematical relationships within its structure are not necessarily the same thing.
 
-The number one can be expressed through the letters of ONE or through the letters of TWO. The expressions are different, and the words retain their different meanings, but their calculated sums are equal.
+The number one can be represented through the letters of ONE or through the letters of TWO. The words remain different, but their calculated values are equal.
 
-The broader significance is that a number need not be confined to one expression, and a symbol need not be limited to one kind of numerical relationship. Different forms can produce the same result, while one form can participate in more than one system of interpretation.
+This does not mean that numbers have arbitrary intrinsic values or that established mathematical rules can be ignored. It shows that a single representation can participate in multiple systems of interpretation, each revealing a different relationship.
 
-This does not mean that every number has multiple intrinsic values or that mathematical rules can be ignored. It means that we must distinguish a number's value from the many ways it can be represented, as well as distinguish a word's conventional meaning from a value calculated under a separate system.
+Ultimately, the experiment invites us to look beyond familiar representations and consider what else they might reveal. The meaning we ordinarily associate with something is important, but it does not necessarily exhaust every way in which that thing can be examined.
 
-The letter-number experiment makes those distinctions visible. It begins with ordinary numbers and familiar arithmetic, then moves into language to show how a different framework can reveal a new numerical relationship.
-
-Ultimately, the experiment invites us to reconsider how we understand symbols and the things they represent. We may encounter something through one familiar form, but that form does not necessarily exhaust every relationship through which it can be examined.
-
-Different expressions can share the same numerical result, and the same written form can carry different numerical interpretations under different systems. Recognizing that distinction allows us to explore relationships beyond the meanings we ordinarily take for granted—and to approach the familiar world with a broader understanding of how representation shapes what we discover.
+By distinguishing what something represents from the structure through which it is represented, we open the possibility of discovering relationships that were always present but previously overlooked.
 
 Anarchy and Philosophy: A Means of Changing the World
 
