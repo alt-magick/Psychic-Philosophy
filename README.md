@@ -1306,13 +1306,13 @@ T + E + N = 10 - 2 + 2 = 10
 
 We can also extend the calculation to an exponent:
 
-TEN³
+TEN^THREE
 
-(T + H + R + E + E)^(T + E + N)
+(T + E + N)^(T + H + R + E + E)
 
-= (10 - 7 + 4 - 2 - 2)^(10 - 2 + 2)
+= (10 - 2 + 2)^(10 - 7 + 4 - 2 - 2)
 
-= 3^10 = 300
+= 10^3 = 1000
 
 In these examples, the calculated letter values match the conventional numerical meanings of the words.
 
