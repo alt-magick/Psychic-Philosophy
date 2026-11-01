@@ -389,9 +389,7 @@ Consider the difference between the labels rain and bad weather. The first ident
 
 The event itself does not determine a single universal evaluation. The label bad weather introduces a judgment that depends on circumstances, priorities, and perspective.
 
-The same distinction appears in our descriptions of ourselves and others. Labels such as lazy, intelligent, difficult, or successful can compress complicated experiences into a single judgment. Sometimes a label may 
-
-identify a useful pattern, but it can also conceal important distinctions or turn a temporary behavior into an assumed permanent characteristic.
+The same distinction appears in our descriptions of ourselves and others. Labels such as lazy, intelligent, difficult, or successful can compress complicated experiences into a single judgment. Sometimes a label may identify a useful pattern, but it can also conceal important distinctions or turn a temporary behavior into an assumed permanent characteristic.
 
 A person who postpones one task is not necessarily a lazy person. Someone who makes a mistake is not necessarily incompetent. A moment of anger does not define an entire personality.
 
