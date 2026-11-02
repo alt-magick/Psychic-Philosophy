@@ -1108,30 +1108,55 @@ One way to explore the relationship between symbolic intention and digital techn
 The mapping is as follows:
 
  A  ☉  Sun 
+ 
  B  ●  Full Moon 
+ 
  C  ☾  Waning Moon 
+ 
  D  ☽  Waxing Moon 
+ 
  E  ○  New Moon 
+ 
  F  ☿  Mercury 
+ 
  G  ♀  Venus 
+ 
  H  ♁  Earth 
+ 
  I  ♂  Mars 
+ 
  J  ♃  Jupiter 
+ 
  K  ♄  Saturn 
+ 
  L  ♅  Uranus 
+ 
  M  ♆  Neptune 
+ 
  N  ♇  Pluto 
+ 
  O  ♈  Aries 
+ 
  P  ♉  Taurus 
+ 
  Q  ♊  Gemini 
+ 
  R  ♋  Cancer 
+ 
  S  ♌  Leo 
+ 
  T  ♍  Virgo 
+ 
  U  ♎  Libra 
+ 
  V  ♏  Scorpio 
+ 
  W  ♐  Sagittarius 
+ 
  X  ♑  Capricorn 
+ 
  Y  ♒  Aquarius 
+
  Z  ♓  Pisces 
 
 The associations form a designed alphabet rather than a universal astrological standard. Their meaning comes from the rules of the cipher and the significance the user assigns to its symbols.
@@ -1241,19 +1266,33 @@ The experiment explores these relationships, examining how different words can p
 To conduct the experiment, we assign the following numerical values to selected letters:
 
  T  10 
+ 
  I  7 
+ 
  V  6 
+ 
  U  5 
+ 
  R  4 
+ 
  S  3 
+ 
  N  2 
+ 
  O  1 
+ 
  G  0 
+ 
  Z  -3 
+ 
  E  -2 
+ 
  X  -4 
+ 
  F  -6 
+ 
  H  -7 
+ 
  W  -10 
 
 Each letter contributes its assigned value to the word. Repeated letters are counted each time they appear.
