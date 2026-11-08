@@ -1220,29 +1220,29 @@ The mapping is as follows:
  
  N  ♇  Pluto 
  
- O  ♈  Aries 
- 
- P  ♉  Taurus 
- 
- Q  ♊  Gemini 
- 
- R  ♋  Cancer 
- 
- S  ♌  Leo 
- 
- T  ♍  Virgo 
- 
- U  ♎  Libra 
- 
- V  ♏  Scorpio 
- 
- W  ♐  Sagittarius 
- 
- X  ♑  Capricorn 
- 
- Y  ♒  Aquarius 
+ O  ♈︎ Aries
 
- Z  ♓  Pisces 
+ P  ♉︎ Taurus
+
+ Q  ♊︎ Gemini
+
+ R  ♋︎ Cancer
+
+ S  ♌︎ Leo
+
+ T  ♍︎ Virgo
+
+ U  ♎︎ Libra
+
+ V  ♏︎ Scorpio
+
+ W  ♐︎ Sagittarius
+
+ X  ♑︎ Capricorn
+
+ Y  ♒︎ Aquarius
+
+ Z ♓︎ Pisces
 
 The associations form a designed alphabet rather than a universal astrological standard. Their meaning comes from the rules of the cipher and the significance the user assigns to its symbols.
 
