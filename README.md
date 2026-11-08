@@ -779,8 +779,11 @@ Astrology and Tarot provide two complementary symbolic languages for these Spher
 1. Control
 
 Power: Energy / Telekinesis  
+
 Knowledge: Evocation — harnessing and directing forces.  
+
 Astrological correspondences: Aries and Mars.  
+
 Tarot correspondences: The Emperor and The Tower.
 
 The Power of Control concerns the direction of force and the ability to produce an effect upon the surrounding world. Its underlying principle, Evocation, treats power as something that can be called forth, concentrated, and directed toward a purpose. Within the magical model, the practitioner learns to recognize forces, understand their effects, and impose a chosen direction upon them.
@@ -792,17 +795,25 @@ The Sphere is not simply about domination. Its deeper question is whether force 
 Five levels of Control
 
 1. Quick Reactions — Recognizing a developing situation quickly and responding before an opportunity disappears.
+
 2. Enhanced Physical Ability — Improving coordination, timing, and the effective use of physical strength through training and concentration.
+
 3. Influencing Physical Outcomes — Understanding the forces and conditions that determine an outcome and learning to alter them deliberately.
-4. Moving Objects — The magical expression of directing an object's movement through will alone, representing the Sphere's imagined extension beyond ordinary physical action.
+
+4. Moving Objects — The magical expression of directing an object's movement through will alone, representing the Sphere's extension beyond ordinary physical action.
+
 5. Controlling Natural Forces — The ultimate expression of Control within this model: command over large-scale forces such as wind, fire, or storms.
 
-The progression moves from controlling one's response to imagining control over the physical environment itself. The greater the proposed power, the more important it becomes to distinguish symbolic intention from what can actually be accomplished.
+The progression moves from controlling one's response to control over the physical environment itself. 
 
 2. Transformation
+
 Power: Developing / Shapeshifting  
+
 Knowledge: Personification — authoring one's own identity.  
+
 Astrological correspondences: Taurus and Venus.  
+
 Tarot correspondences: The Hierophant and The Empress.
 
 The Power of Transformation concerns development, adaptation, and the creation of identity. Its underlying principle, Personification, recognizes that identity is not experienced as a single unchanging object. We develop through habits, relationships, choices, and the roles we adopt. Transformation asks how we might participate more deliberately in that process instead of allowing external expectations to define us completely.
@@ -814,9 +825,13 @@ Within the magical model, Transformation may include assuming another form or es
 Five levels of Transformation
 
 1. Sensing Others' Attributes — Recognizing the qualities, strengths, and limitations that distinguish people or beings.
+
 2. Enhancing Attributes — Improving existing capabilities through practice, adaptation, and focused effort.
+
 3. Developing Attributes — Cultivating new skills or qualities that were previously undeveloped.
+
 4. Shapeshifting — The magical ability to assume another physical form or outward identity.
+
 5. Transmutation — The most extreme expression of the Sphere: transforming the essential nature or substance of a being or object.
 
 The symbolic progression moves from recognizing qualities to changing them. Its philosophical core is the possibility of deliberate self-development, balanced by an awareness that not every desired transformation is physically possible.
@@ -824,8 +839,11 @@ The symbolic progression moves from recognizing qualities to changing them. Its 
 3. Understanding
 
 Power: Wisdom / ESP.  
+
 Knowledge: Realization — unveiling inner knowledge and recognizing what was previously unseen.  
+
 Astrological correspondences: Libra and Venus.  
+
 Tarot correspondences: Justice and The Empress.
 
 The Power of Understanding manifests as inspiration, insight, and the recognition of relationships that were previously hidden. Within the magical framework, it grants effortless access to answers and discoveries beyond conventional understanding and includes the possibility of foreknowledge. Its central principle, Realization, treats insight as the moment when scattered observations become intelligible.
@@ -837,9 +855,13 @@ The Sphere's claim that knowledge already resides within the self can be underst
 Five levels of Understanding
 
 1. Elevated Mental Attributes — Greater clarity, concentration, reasoning, and capacity to recognize patterns.
+
 2. Predicting Outcomes — Anticipating likely results by interpreting present conditions, available information, and possible consequences.
+
 3. Seeing the Past — Reconstructing past events from surviving evidence or, in the magical model, perceiving them through extraordinary means.
-4. Seeing the Future — The imagined ability to perceive events before they occur; in practical terms, this corresponds to increasingly sophisticated forecasting, not certainty about the future.
+
+4. Seeing the Future — The ability to perceive events before they occur; in practical terms, this corresponds to increasingly sophisticated forecasting, not certainty about the future.
+
 5. Stopping Time — The most extreme expression of Understanding, symbolizing the desire to escape ordinary temporal limits and examine reality without the pressure of change.
 
 The progression begins with mental clarity and moves toward increasingly extraordinary forms of knowledge. Its central lesson is that a powerful impression is not necessarily accurate. Wisdom includes knowing how to test insight, recognize uncertainty, and revise an interpretation when new evidence appears.
@@ -847,8 +869,11 @@ The progression begins with mental clarity and moves toward increasingly extraor
 4. Revelation
 
 Power: Visions / Rapture.  
+
 Knowledge: Above as Below — exploring the symbolic relationship between different levels of existence.  
+
 Astrological correspondences: Pisces and Neptune.  
+
 Tarot correspondences: The High Priestess and The Hanged Man.
 
 The Power of Revelation concerns visions, inspiration, spiritual encounter, and the experience of perceiving a significance that was previously hidden. Its underlying principle, Above as Below, expresses the idea that patterns in one realm may reflect or illuminate patterns in another. Within esoteric traditions, this can describe a relationship between the divine, the natural world, and human experience.
@@ -860,18 +885,25 @@ Revelation invites the practitioner to approach experience without assuming that
 Five levels of Revelation
 
 1. Sensing Spirits — Becoming aware of what the practitioner interprets as spiritual presence or influence.
-2. Speaking with Spirits — Attempting to communicate with perceived spiritual entities within the magical model.
-3. Banishment — Performing a ritual intended to end or remove an unwanted spiritual presence.
-4. Summoning — Performing a ritual intended to invite or call a spiritual entity into a defined setting.
-5. Spirit Travel — The imagined ability to journey beyond the physical body or ordinary perception into a spiritual realm.
 
-These levels describe the internal structure of an occult practice. Experiences interpreted as spiritual encounters can also be approached through cultural, psychological, or personal frameworks; the framework itself does not establish that spirits have been objectively detected or contacted.
+2. Speaking with Spirits — Attempting to communicate with perceived spiritual entities within the magical model.
+
+3. Banishment — Performing a ritual intended to end or remove an unwanted spiritual presence.
+
+4. Summoning — Performing a ritual intended to invite or call a spiritual entity into a defined setting.
+
+5. Spirit Travel — The ability to journey beyond the physical body or ordinary perception into a spiritual realm.
+
+These levels describe the internal structure of an occult practice. Experiences interpreted as spiritual encounters can also be approached through cultural, psychological, or personal frameworks.
 
 5. Feeling
 
 Power: Empathy / Telepathy.  
+
 Knowledge: Association — recognizing the interconnectedness of living beings and experiences.  
+
 Astrological correspondences: Virgo and Mercury.  
+
 Tarot correspondences: The Hermit and The Magician.
 
 The Power of Feeling concerns emotional recognition, empathy, and the ability to understand others beyond the literal content of their words. Within the magical model, it extends toward perceiving thoughts and emotions without speech. Its underlying principle, Association, describes the relationships that connect individuals through shared experience, emotional expression, and social life.
@@ -883,18 +915,25 @@ Feeling is not simply an emotional reaction. It involves recognizing that anothe
 Five levels of Feeling
 
 1. Reading Mindstates — Recognizing emotional states and likely intentions through observation, context, and sensitivity to behavior.
+
 2. Enhanced Social Attributes — Developing communication, empathy, and interpersonal awareness.
+
 3. Mental Shield — Establishing psychological boundaries and maintaining composure when confronted with pressure or emotional influence.
+
 4. Reading Thoughts — The magical ability to perceive another person's private thoughts directly.
-5. Mental Link — The imagined establishment of a direct mental connection between separate minds.
+
+5. Mental Link — The establishment of a direct mental connection between separate minds.
 
 The progression moves from interpreting outward signs to imagining direct access to another person's mind. Its ethical foundation is respect for the privacy and agency of others. The desire to understand another person does not automatically grant permission to intrude upon them.
 
 6. Influence
 
 Power: Charisma / Hypnotism.  
+
 Knowledge: Possession — the symbolic power of will and suggestion in the realm of the mind.  
+
 Astrological correspondences: Leo and the Sun.  
+
 Tarot correspondences: Strength and The Sun.
 
 The Power of Influence concerns persuasion, charisma, suggestion, and the ways one person can affect another's beliefs or behavior. Within the magical framework, Possession describes the extreme possibility of one will taking control of another. Its underlying theme is the relationship between personal intention and the mental independence of other people.
@@ -906,9 +945,14 @@ Influence is not inherently harmful. Teaching, public speaking, negotiation, enc
 Five levels of Influence
 
 1. Sensing Willpower — Recognizing determination, hesitation, confidence, or resistance in oneself and others.
+
 2. Social Influence — Communicating persuasively and shaping a shared understanding through argument, trust, and presence.
-3. Hypnotic Suggestion — Using focused attention and suggestion to influence a person's experience within the limits of ordinary psychological practice.
+
+3. Hypnotic Suggestion — Using focused attention and suggestion to influence a person's experience within 
+the limits of ordinary psychological practice.
+
 4. Mind Control — The magical concept of overriding another person's thoughts or decisions.
+
 5. Altering Identities — The extreme magical concept of fundamentally changing how a person understands or experiences their identity.
 
 The Sphere explores the power of one perspective to affect another. Its central responsibility is to recognize that influence carries consequences. Understanding how people can be persuaded should encourage greater care, not a belief that their autonomy is an obstacle to be overcome.
@@ -916,8 +960,11 @@ The Sphere explores the power of one perspective to affect another. Its central 
 7. Penetration
 
 Power: Escape / Intangibility.  
+
 Knowledge: Spiritualism — interpreting the world through the idea that reality may contain dimensions beyond its immediately visible physical form.  
+
 Astrological correspondences: Gemini and Mercury.  
+
 Tarot correspondences: The Lovers and The Magician.
 
 The Power of Penetration concerns access, escape, and the discovery of routes through apparent barriers. Within the magical model, it extends from finding a way out of confinement to the extraordinary ability to become intangible. Its underlying principle, Spiritualism, treats visible material conditions as only one possible level of reality.
@@ -929,18 +976,24 @@ In practical terms, Penetration can describe investigation, problem-solving, the
 Five levels of Penetration
 
 1. Finding Exits — Recognizing available routes, alternatives, and ways to leave a difficult situation.
-2. Opening Locks — Understanding and manipulating a locking mechanism through legitimate, authorized means.
+2. Opening Locks — Understanding and manipulating a locking mechanism.
+
 3. Escaping Restraints — Finding ways to release oneself from confinement or restrictive circumstances.
+
 4. Escaping Prisons — The broader magical concept of overcoming barriers designed to prevent departure.
-5. Becoming Intangible — The ultimate imagined ability to pass through physical barriers without being obstructed by them.
+
+5. Becoming Intangible — The ultimate ability to pass through physical barriers without being obstructed by them.
 
 The progression represents increasingly complete freedom from restriction. Its philosophical theme is the distinction between a barrier that is genuinely unavoidable and one that persists because its structure has not yet been understood.
 
 8. Travel
 
 Power: Direction / Teleportation.  
+
 Knowledge: Unity — questioning the apparent separation between places, people, and experiences.  
+
 Astrological correspondences: Sagittarius and Jupiter.  
+
 Tarot correspondences: Temperance and The Wheel of Fortune.
 
 The Power of Travel concerns movement, orientation, exploration, and the ability to cross distance. Its underlying principle, Unity, explores how things that appear separate may still be connected through relationships, shared structures, and pathways of communication. Within the magical framework, this principle extends to the extraordinary possibility of transcending physical distance.
@@ -952,9 +1005,13 @@ Travel is not limited to movement through physical space. Reading about a distan
 Five levels of Travel
 
 1. Locating Lost Objects — Using observation, memory, and available information to determine where something may be found.
+
 2. Finding Directions — Identifying routes and navigating unfamiliar environments.
+
 3. Seeing at a Distance — The magical concept of perceiving remote places without physically traveling to them.
-4. Teleporting Objects — The imagined ability to move an object from one location to another without crossing the intervening space.
+
+4. Teleporting Objects — The ability to move an object from one location to another without crossing the intervening space.
+
 5. Creating a Portal — The ultimate magical expression of Travel: establishing a passage between separated locations.
 
 The Sphere moves from practical navigation toward the imaginative dissolution of distance. Its philosophical significance lies in the recognition that our world is larger than the portion we can directly observe, and that movement, knowledge, and communication provide different ways of reaching beyond it.
@@ -962,8 +1019,11 @@ The Sphere moves from practical navigation toward the imaginative dissolution of
 9. Production
 
 Power: Attraction / Creation.  
+
 Knowledge: Synchronicity — recognizing connections among events and bringing intention into action.  
+
 Astrological correspondences: Capricorn and Saturn.  
+
 Tarot correspondences: The Devil and The World.
 
 The Power of Production concerns the creation of outcomes, the recognition of opportunity, and the transformation of intention into something tangible. Its underlying principle, Synchronicity, emphasizes meaningful relationships among events that may appear separate. Within the magical model, this principle extends to the idea that desires can be drawn into one's reality.
@@ -975,9 +1035,13 @@ In practical life, people often increase their chances of success by clarifying 
 Five levels of Production
 
 1. Sensing Opportunity — Recognizing circumstances that may allow a goal to be pursued.
+
 2. Arranging Situations — Organizing resources, relationships, and conditions to make a desired outcome more likely.
+
 3. Attracting Wealth — The magical concept of drawing financial opportunity or material prosperity toward oneself.
-4. Producing Small Objects — The imagined ability to bring a physical object into existence through magical means.
+
+4. Producing Small Objects — The ability to bring a physical object into existence through magical means.
+
 5. Winning Lotteries and Elections — The extreme magical claim of reliably producing outcomes that depend on chance, competition, or the independent decisions of others.
 
 Production explores the relationship between desire and consequence. Its practical lesson is that intention becomes more effective when joined with preparation and action. Its magical imagery expresses the hope that reality might respond directly to will, but the existence of meaningful coincidence does not prove that intention controls chance.
@@ -985,8 +1049,11 @@ Production explores the relationship between desire and consequence. Its practic
 10. Restoration
 
 Power: Renewal / Healing.  
+
 Knowledge: Forgiveness — releasing the burden of suffering and allowing recovery to begin.  
+
 Astrological correspondences: Aquarius and Uranus.  
+
 Tarot correspondences: The Star and The Fool.
 
 The Power of Restoration concerns recovery, renewal, and the possibility of rebuilding after injury or disruption. Its underlying principle, Forgiveness, describes the release of resentment and the willingness to move beyond a harmful event without pretending that the event never happened.
@@ -998,9 +1065,13 @@ Within the magical model, Restoration includes powers of healing that extend fro
 Five levels of Restoration
 
 1. Sensing Illness — Recognizing signs that something may be wrong and seeking appropriate assessment.
+
 2. Relieving Pain — Reducing suffering through suitable support, care, and treatment.
+
 3. Protection from Disease — Reducing exposure to illness through preventive measures and protective practices.
+
 4. Healing Sickness or Damage — Restoring health or function through appropriate treatment and recovery.
+
 5. Resurrection — The ultimate magical concept of restoring life after death.
 
 These levels express a progression from recognizing suffering to imagining its complete reversal. The magical model's strongest claim, resurrection, is not an established medical capability. Restoration's practical meaning is the commitment to reduce suffering, support recovery, and recognize that renewal may require both care and change.
@@ -1008,8 +1079,11 @@ These levels express a progression from recognizing suffering to imagining its c
 11. Vanishing
 
 Power: Stealth / Invisibility.  
+
 Knowledge: Misdirection — understanding how attention and perception can be guided away from what is present.  
+
 Astrological correspondences: Cancer and the Moon.  
+
 Tarot correspondences: The Chariot and The Moon.
 
 The Power of Vanishing concerns concealment, privacy, stealth, and the limits of observation. Its underlying principle, Misdirection, recognizes that perception is selective. What people notice depends on where their attention is directed, what they expect to find, and how they interpret the information available to them.
@@ -1021,9 +1095,13 @@ Vanishing can have practical forms: keeping information private, moving without 
 Five levels of Vanishing
 
 1. Detecting Lies — Looking for inconsistencies and evaluating statements against evidence, while recognizing that no single behavior reliably proves deception.
-2. Seeing in the Dark — Improving one's ability to navigate low-light environments with suitable equipment and knowledge.
+
+2. Seeing in the Dark — Improving one's ability to navigate low-light environments.
+
 3. Stealth — Moving or acting in ways that reduce the likelihood of being noticed.
+
 4. Disguise — Altering appearance or presentation to conceal identity in appropriate, lawful contexts.
+
 5. Invisibility — The ultimate magical expression of Vanishing: becoming visually undetectable.
 
 The progression begins with understanding how observation works and ends with the fantasy of escaping observation entirely. Its broader lesson is that being unseen, being overlooked, and being misunderstood are different conditions. Each depends on a different relationship between what exists and what an observer perceives.
@@ -1031,8 +1109,11 @@ The progression begins with understanding how observation works and ends with th
 12. Destruction
 
 Power: Curses / Annihilation.  
+
 Knowledge: Pragmatism — confronting what must end and examining the consequences of disruption.  
+
 Astrological correspondences: Scorpio and Pluto.  
+
 Tarot correspondences: Death and Judgement.
 
 The Power of Destruction concerns endings, disruption, the dismantling of established structures, and the removal of what is harmful or no longer sustainable. Its underlying principle, Pragmatism, asks what an action actually accomplishes and what consequences follow from it. Within the magical framework, the Sphere includes curses, annihilation, and the deliberate destruction of people, objects, or arrangements.
@@ -1044,9 +1125,13 @@ The Sphere carries a serious ethical tension. The ability to destroy something d
 Five levels of Destruction
 
 1. Sensing Black Magic — Recognizing what the practitioner interprets as harmful or destructive magical influence within the framework.
+
 2. Protection from Curses — Performing symbolic or ritual acts intended to provide protection against perceived harmful influence.
+
 3. Cursing Enemies — The magical practice of directing hostile intention toward another person.
-4. Causing Physical Damage — The imagined ability to produce bodily or material harm through supernatural means.
+
+4. Causing Physical Damage — The ability to produce bodily or material harm through supernatural means.
+
 5. Killing and Destroying — The most extreme expression of the Sphere: annihilating life or structures.
 
 The progression moves from recognizing a perceived threat to the ultimate expression of destructive force. It is not a recommendation to harm others. Rather, it makes explicit the moral questions that arise whenever power is imagined as a means of imposing one's will upon reality. The capacity to end something must be accompanied by the judgment to understand what that ending would mean.
