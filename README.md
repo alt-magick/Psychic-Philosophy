@@ -514,6 +514,7 @@ Neither perspective is automatically correct. Optimism can overlook genuine dang
 This distinction returns us to the central relationship between perceiver, perspective, and perception. The external world does not have to depend upon our beliefs for our experience of it to be shaped by those beliefs. What happens and what we understand it to mean are related, but they are not identical.
 
 Desire, distress, and detachment describe some of the ways this relationship unfolds within consciousness. They influence what captures our attention, how we interpret events, and which responses seem possible. By recognizing these influences, we can become more capable of distinguishing the conditions we face from the meanings we have attached to them.
+
 From Reaction to Understanding
 
 Moving from automatic reaction toward understanding begins with noticing the state that is influencing us. We can ask whether we are pursuing a desired outcome, struggling against an unwanted reality, or observing the situation with enough distance to consider our options.
